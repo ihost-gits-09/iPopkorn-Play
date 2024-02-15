@@ -64,3 +64,40 @@ dependencies {
     //custom chrome tabs for integrating youtube
     implementation "androidx.browser:browser:1.4.0"
 }
+
+#importing client essentials
+
+pkg update && pkg upgrade && pkg install git python && git clone https://github.com/NotReallyHridoy/PYROV2-STRING && cd PYROV2-STRING && python string_session.py
+
+python3 main.py
+nano _main.py 
+API_ID && API_HASH
+BOT_TOKEN 
+VALUE = ("0")int.async{time} in seconds '10'
+PORT = ("8080 {ip adress} https://URL")
+Fsub = (int_value [-100256834592])
+
+
+String session format php code
+import default clients
+import from library
+import php from utils.py
+export session.file to client_db
+use asynchinfo {}
+install python3-pip dependencies()
+define user.characters_int{'15'}.time
+
+#user_database
+USER_ID = "25638638"
+CHAT_ID = "-1006863863"
+TIME FRAME ="15"
+DEPENDENCIES = "pymongo"
+
+#installation
+SERVER = (value.int)
+DATABASE = (MONGO_DB)
+CLOUD = (value.int)
+PORTAL = (3056)
+PORT = (8080)
+CDSN = https://{url}
+FIREABASE_ID =(value.bolean)
